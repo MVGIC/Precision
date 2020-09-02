@@ -7,7 +7,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [ошибка](https://github.com/MVGIC/Precision/issues/1#issue-689222955)
+* [Бонус для новых клиентов рассчитывается неверно](https://github.com/MVGIC/Precision/issues/1#issue-689222955)
 
 ## Описание тестов
 
@@ -18,7 +18,7 @@
 ## Результаты
 
 1. 100% не успешных тестов
-2. [баг репорт](https://github.com/MVGIC/Precision/issues/1#issue-689222955)
+2. [Баг репорт](https://github.com/MVGIC/Precision/issues/1#issue-689222955)
 
 ## Общие рекомендации
 
